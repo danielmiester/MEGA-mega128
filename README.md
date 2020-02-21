@@ -12,6 +12,8 @@ A friend put a bug in my head to create a "visible" atmega8 style chip similar t
 * Clock should run as fast as possible
 * clock should offer single step mode
 * clock should offer fast step (10hz)
+* "Fuses" to be implemented as jumpers, dips, or other switch mechanism 
+
 
 ## Nice to haves
-* LCD to give assembly mnemonic of currently executing instruction
+* LCD to give assembly mnemonic of currently executing instruction, with optional lookup of IO register mnemonics
